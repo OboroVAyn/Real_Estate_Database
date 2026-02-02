@@ -1,3 +1,4 @@
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 🏡 Real Estate Database & SQL Queries
 📌 Project Overview
 This project involves designing a real estate database and performing SQL queries to address business-related questions. The goal was to structure spatial and sales data into a relational database and extract insights through SQL queries.
